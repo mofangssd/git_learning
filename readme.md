@@ -1,3 +1,3 @@
-### project desc
+### Project description
 
 We are going to record some git commands here.
